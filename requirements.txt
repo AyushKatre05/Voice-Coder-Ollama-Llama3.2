@@ -3,3 +3,4 @@ pyautogui
 pyttsx3
 opencv-python
 ollama
+gtts
